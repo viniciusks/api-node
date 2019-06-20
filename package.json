@@ -1,0 +1,23 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "API teste, focada para o conhecimento da tecnologia",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusks/api-node.git"
+  },
+  "author": "Vinicius Kremer Santos <vinicius.kremer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusks/api-node/issues"
+  },
+  "homepage": "https://github.com/viniciusks/api-node#readme"
+}
