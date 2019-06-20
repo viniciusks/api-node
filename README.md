@@ -5,6 +5,4 @@ Projeto pessoal com a finalidade de aprender um pouco mais sobre a tecnlogia e d
 
 ## Comandos
 Não esqueça de instalar as dependências
-´´´ bash
-npm install
-´´´
+- npm install
